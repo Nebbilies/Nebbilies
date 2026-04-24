@@ -14,14 +14,14 @@ Currently in the job finding arc, and wow it is hard
 
 <h2 align="center">✦ Github Stats ✦</h2>
 
-<img align="left" alt="github_metrics_left" width="400" src="./assets/metrics_left.svg">
-<img align="right" alt="github_metrics_right" width="400" src="./assets/metrics_right.svg">
-
-<br clear="both">
+<p align="center">
+  <img alt="github_metrics_left" width="49%" src="./assets/metrics_left.svg">
+  <img alt="github_metrics_right" width="49%" src="./assets/metrics_right.svg">
+</p>
 
 <h2 align="center">✦ Personal Hobbies ✦</h2>
 
-<img align="left" alt="personal_metrics_left" width="400" src="./assets/personal_metrics_left.svg">
-<img align="right" alt="personal_metrics_right" width="400" src="./assets/personal_metrics_right.svg">
-
-<br clear="both">
+<p align="center">
+  <img alt="personal_metrics_left" width="49%" src="./assets/personal_metrics_left.svg">
+  <img alt="personal_metrics_right" width="49%" src="./assets/personal_metrics_right.svg">
+</p>
