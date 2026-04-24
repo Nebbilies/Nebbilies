@@ -47,7 +47,7 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Saigon
           base: ""
-          config_order: languages, followup, habits, wakatime, fortune
+          config_order: languages, followup, habits, achievements, wakatime, fortune
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -63,10 +63,13 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_habits: yes
-          plugin_habits_from: 1000
+          plugin_habits_from: 200
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
           plugin_wakatime: yes
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
@@ -76,6 +79,7 @@ jobs:
           plugin_wakatime_languages_ignored: other
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_url: https://wakatime.com
+          plugin_fortune: yes
 
       - name: Personal Metrics (left)
         uses: lowlighter/metrics@latest
