@@ -1,10 +1,23 @@
-## i swear i'll do this later
+<h1 align="center">Hello there, Nebby here.</h1>
 
-<br>
+<h3 align="center">I'm currently majoring in Software Engineering at University of Information Technology.
 
-![hello](https://cdn.discordapp.com/attachments/299052839081082881/1194874487691292692/TwitterBanner.png?ex=65b1f095&is=659f7b95&hm=f2c9111f42eb04372337a2b7915365814157b707c8794dfa3324c38ab33ec403&)
+<hr>
+    
+<h2 align="center">✦ About Me ✦</h2>
 
-<!---
-Nebbilies/Nebbilies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm mainly a hobbyist programmer, specializing in web development. Always trying to find new stuff and technologies to learn and adapt to the ever-changing tech industry nowadays. Love to work with great teammates.
+
+I mostly work with TypeScript, but can also make things with various other languages - including Python, C#, etc...
+
+Currently in the job finding arc, and wow it is hard 
+
+<h2 align="center">✦ Github Stats ✦</h2>
+
+<img align="left" alt="github_metrics_left" width="400" src="./assets/metrics_left.svg">
+<img align="right" alt="github_metrics_right" width="400" src="./assets/metrics_right.svg">
+
+<h2 align="center">✦ Personal Hobbies ✦</h2>
+
+<img align="left" alt="personal_metrics_left" width="400" src="./assets/metrics_left.svg">
+<img align="right" alt="personal_metrics_right" width="400" src="./assets/metrics_right.svg">
