@@ -19,5 +19,5 @@ Currently in the job finding arc, and wow it is hard
 
 <h2 align="center">✦ Personal Hobbies ✦</h2>
 
-<img align="left" alt="personal_metrics_left" width="400" src="./assets/metrics_left.svg">
-<img align="right" alt="personal_metrics_right" width="400" src="./assets/metrics_right.svg">
+<img align="left" alt="personal_metrics_left" width="400" src="./assets/personal_metrics_left.svg">
+<img align="right" alt="personal_metrics_right" width="400" src="./assets/personal_metrics_right.svg">
