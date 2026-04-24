@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, Nebby here.</h1>
 
-<h3 align="center">I'm currently majoring in Software Engineering at University of Information Technology.
+<h3 align="center">I'm currently majoring in Software Engineering at University of Information Technology.</h3>
 
 <hr>
     
@@ -17,7 +17,11 @@ Currently in the job finding arc, and wow it is hard
 <img align="left" alt="github_metrics_left" width="400" src="./assets/metrics_left.svg">
 <img align="right" alt="github_metrics_right" width="400" src="./assets/metrics_right.svg">
 
+<br clear="both">
+
 <h2 align="center">✦ Personal Hobbies ✦</h2>
 
 <img align="left" alt="personal_metrics_left" width="400" src="./assets/personal_metrics_left.svg">
 <img align="right" alt="personal_metrics_right" width="400" src="./assets/personal_metrics_right.svg">
+
+<br clear="both">
