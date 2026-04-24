@@ -90,8 +90,6 @@ jobs:
           plugin_anilist_sections: favorites, watching, reading
           plugin_anilist_limit: 2
           plugin_anilist_shuffle: yes
-          output_action: none
-          delay: 120
           user: nebbilies
 
       - name: Personal Metrics (right)
@@ -108,7 +106,7 @@ jobs:
           plugin_music_provider: youtube
           plugin_music_limit: 5
           plugin_music_token: ${{ secrets.YOUTUBE_TOKEN }}
-          plugin_music_mode: top
+          plugin_music_mode: recent
           plugin_music_time_range: short
           plugin_music_top_type: tracks
 
