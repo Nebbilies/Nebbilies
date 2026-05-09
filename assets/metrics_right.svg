@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 32.1mb of code in 5008 edited files across 470 commits</small>
+                <small>estimation from 32.2mb of code in 5022 edited files across 475 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="319.64024455404183" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="319.64024455404183" y="0" width="50.07935377112565" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="369.7195983251675" y="0" width="43.63868047032612" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="413.3582787954936" y="0" width="18.230885310242318" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.58916410573596" y="0" width="13.261195503987928" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="444.85035960972385" y="0" width="7.987626575822438" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.8379861855463" y="0" width="6.294319753114404" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.1323059386607" y="0" width="0.8676940613392831" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.2938652250428" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="318.2938652250428" y="0" width="51.80600957875873" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="370.0998748038015" y="0" width="43.45486689136953" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="413.55474169517106" y="0" width="18.15409370608963" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.70883540126067" y="0" width="13.205337082501313" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="444.914172483762" y="0" width="7.953981327789123" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="452.8681538115511" y="0" width="6.267807002764313" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.1359608143154" y="0" width="0.8640391856845846" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -42,7 +42,7 @@
                             </div>
                             <small>
                                 <div>858 kB</div>
-                                <div>69.49%</div>
+                                <div>69.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -54,7 +54,7 @@
                             </div>
                             <small>
                                 <div>117 kB</div>
-                                <div>9.49%</div>
+                                <div>9.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -66,7 +66,7 @@
                             </div>
                             <small>
                                 <div>35.6 kB</div>
-                                <div>2.88%</div>
+                                <div>2.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -78,7 +78,7 @@
                             </div>
                             <small>
                                 <div>16.9 kB</div>
-                                <div>1.37%</div>
+                                <div>1.36%</div>
                             </small>
                         </div>
                     </section>
@@ -91,8 +91,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>134 kB</div>
-                                <div>10.89%</div>
+                                <div>139 kB</div>
+                                <div>11.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -104,7 +104,7 @@
                             </div>
                             <small>
                                 <div>48.9 kB</div>
-                                <div>3.96%</div>
+                                <div>3.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -116,7 +116,7 @@
                             </div>
                             <small>
                                 <div>21.4 kB</div>
-                                <div>1.74%</div>
+                                <div>1.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -183,7 +183,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~41 coding hours recorded
+                            ~43 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,8 +219,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">honya-bookstore</span>
-                                <div class="bar" style="width: 25.247999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
+                                <div class="bar" style="width: 34.192%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">43%</span>
                             </div>
                         </div>
                     </section>
@@ -229,27 +229,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 34.304%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">43%</span>
+                                <div class="bar" style="width: 27.136%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 15.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 20.648%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">26%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 9.831999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 10.504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 2.7279999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Docker</span>
-                                <div class="bar" style="width: 2.336%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">YAML</span>
+                                <div class="bar" style="width: 2.5679999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -266,7 +266,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
